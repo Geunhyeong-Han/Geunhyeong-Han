@@ -1,24 +1,14 @@
-## Hi there 👋
+## 관심 영역
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Geunhyeong-Han&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Geunhyeong-Han"
-  width="600"
-  height="300"
-/>
-</a>
+- LLM · RAG
+- 자연어처리 · 텍스트마이닝
+- 데이터 분석 · 머신러닝
+- 최적화
 
-<!--
-**Geunhyeong-Han/Geunhyeong-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Geunhyeong-Han&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/Geunhyeong-Han" width="600" alt="Git Animals farm" />
+  </a>
+</div>
